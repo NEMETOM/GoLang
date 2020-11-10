@@ -1,5 +1,5 @@
 //
-// This code iterates over maps and prints HEX code for each color defined in the map
+// This code iterates over the defined map and prints HEX code for each color defined in the map
 //
 package main
 

@@ -1,9 +1,10 @@
 package main
 
-import ("fmt"
+import (
+	"fmt"
         "strconv"
-		"strings"
-		"os"
+	"strings"
+	"os"
 )
 
 type Base struct {
